@@ -40,10 +40,14 @@
 #### - Coding the mechanics of the astronaut to move through space
 #### - Creating a space background with stars and galaxies
 
-### Devices: #### HTC Vive
+### Devices: 
+#### - HTC Vive
 
 ### Asset and Other Inspirations:
 ![alt text](https://github.com/nab143/VirtualWorlds/blob/master/images/assetinspir1.png)
 ![alt text](https://github.com/nab143/VirtualWorlds/blob/master/images/assetinspir2.png)
 ![alt text](https://github.com/nab143/VirtualWorlds/blob/master/images/assetinspir3.png)
 ![alt text](https://github.com/nab143/VirtualWorlds/blob/master/images/assetinspir5.jpg)
+![alt text](https://github.com/nab143/VirtualWorlds/blob/master/images/assetinspir6.jpg)
+![alt text](https://github.com/nab143/VirtualWorlds/blob/master/images/assetinspir7.jpg)
+![alt text](https://github.com/nab143/VirtualWorlds/blob/master/images/assetinspir8.jpg)
